@@ -22,7 +22,7 @@
           "checksum": "SHA-256:0535db96df59670ab832d15a864314a8a4b8a090d6b39e7dcb3f7c5c05bb4cbe",
           "size": "15005",
           "boards": [
-            {"name": "Spark Mark 2"},
+            {"name": "Spark Mark 2"}
           ],
           "toolsDependencies": [
             {
