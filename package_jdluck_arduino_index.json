@@ -3,10 +3,10 @@
     {
       "name": "JDLuck",
       "maintainer": "J Luck",
-      "websiteURL": "https://jdluck.github.io/arduino",
+      "websiteURL": "https://github.com/JDLuck/Arduino/",
       "email": "jane@janedeveloper.org",
       "help": {
-        "online": "https://jdluck.github.io/arduino"
+        "online": "https://github.com/JDLuck/Arduino/"
       },
       "platforms": [
         {
@@ -15,11 +15,11 @@
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
-            "online": "https://jdluck.github.io/arduino"
+            "online": "https://github.com/JDLuck/Arduino/"
           },
-          "url": "https://janedeveloper.github.io/arduino/package_jdluck_arduino-1.0.0.zip",
-          "archiveFileName": "package_jdluck_arduino-1.0.0.zip",
-          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
+          "url": "https://github.com/JDLuck/Arduino/raw/develop/packages/package_jdluck_avr_1.0.0.zip",
+          "archiveFileName": "package_jdluck_avr_1.0.0.zip",
+          "checksum": "SHA-256:0535db96df59670ab832d15a864314a8a4b8a090d6b39e7dcb3f7c5c05bb4cbe",
           "size": "15005",
           "boards": [
             {"name": "Spark Mark 2"},
