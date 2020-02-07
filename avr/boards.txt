@@ -1,0 +1,40 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+##############################################################
+
+spark2.name=JDLuck Spark Mk. 2
+spark2.vid.0=0x04D8
+spark2.pid.0=0xEC85
+spark2.vid.1=0x04D8
+spark2.pid.1=0x8036
+
+spark2.upload.tool=avrdude
+spark2.upload.protocol=avr109
+spark2.upload.maximum_size=28672
+spark2.upload.maximum_data_size=2560
+spark2.upload.speed=57600
+spark2.upload.disable_flushing=true
+spark2.upload.use_1200bps_touch=true
+spark2.upload.wait_for_upload_port=true
+
+spark2.bootloader.tool=avrdude
+spark2.bootloader.low_fuses=0xff
+spark2.bootloader.high_fuses=0xd8
+spark2.bootloader.extended_fuses=0xcb
+spark2.bootloader.file=caterina-spark2/Caterina.hex
+spark2.bootloader.unlock_bits=0x3F
+spark2.bootloader.lock_bits=0x2F
+
+spark2.build.mcu=atmega32u4
+spark2.build.f_cpu=16000000L
+spark2.build.vid=0x04D8
+spark2.build.pid=0xEC85
+spark2.build.usb_product="Arduino Leonardo"
+spark2.build.board=AVR_leonardo
+spark2.build.core=arduino
+spark2.build.variant=spark2
+spark2.build.extra_flags={build.usb_flags}
+
+##############################################################

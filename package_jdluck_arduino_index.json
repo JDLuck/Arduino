@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "JDLuck",
+      "maintainer": "J Luck",
+      "websiteURL": "https://jdluck.github.io/arduino",
+      "email": "jane@janedeveloper.org",
+      "help": {
+        "online": "https://jdluck.github.io/arduino"
+      },
+      "platforms": [
+        {
+          "name": "JDLuck AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://jdluck.github.io/arduino"
+          },
+          "url": "https://janedeveloper.github.io/arduino/package_jdluck_arduino-1.0.0.zip",
+          "archiveFileName": "package_jdluck_arduino-1.0.0.zip",
+          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
+          "size": "15005",
+          "boards": [
+            {"name": "Spark Mark 2"},
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+      ],
+      "tools":[]
+    }
+  ]
+}
