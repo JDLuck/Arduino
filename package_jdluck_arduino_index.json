@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/JDLuck/Arduino/raw/develop/packages/package_jdluck_avr_1.0.0.zip",
           "archiveFileName": "package_jdluck_avr_1.0.0.zip",
-          "checksum": "SHA-256:0535db96df59670ab832d15a864314a8a4b8a090d6b39e7dcb3f7c5c05bb4cbe",
+          "checksum": "SHA-256:ba1c02d2fe9003158dc5f13a4bdc36ec14a7fcc86dcc65409a313e63f22d17b6",
           "size": "8803544",
           "boards": [
             {"name": "Spark Mark 2"}
