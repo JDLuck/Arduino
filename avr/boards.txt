@@ -23,7 +23,7 @@ spark2.bootloader.tool=avrdude
 spark2.bootloader.low_fuses=0xff
 spark2.bootloader.high_fuses=0xd8
 spark2.bootloader.extended_fuses=0xcb
-spark2.bootloader.file=caterina-spark2/Caterina.hex
+spark2.bootloader.file=caterina-spark2/Caterina-Spark2-1.0.0.00000.hex
 spark2.bootloader.unlock_bits=0x3F
 spark2.bootloader.lock_bits=0x2F
 
