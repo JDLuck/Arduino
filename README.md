@@ -20,7 +20,7 @@ Select a search type of 'All' and filter for 'JDLuck'. Click the 'JDLuck AVR Boa
 ![Boards Manager Package](images/install-manager.png)
 
 In the Arduino IDE, select the appropriate board to target, an example for the Spark Mark 2; <br>
-(**Tools** > **Board** > **JDLuck Spark Mark 2***)
+(**Tools** > **Board** > **JDLuck Spark Mark 2**)
 
 In the Arduino IDE, ensure that you have selected the correct COM port to target, as an example for the Spark Mark 2; <br>
 (**Tools** > **Port** > **COM4 (JDLuck Spark Mk. 2)**)<br>
