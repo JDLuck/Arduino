@@ -24,6 +24,7 @@ In the Arduino IDE, select the appropriate board to target, an example for the S
 
 In the Arduino IDE, ensure that you have selected the correct COM port to target, as an example for the Spark Mark 2; <br>
 (**Tools** > **Port** > **COM4 (JDLuck Spark Mk. 2)**)<br>
+<br>
 You can find the COM port number in 'Device Manager' on windows if you are unsure.
 
 ![Device Manager COM Port](images/install-com.png)
