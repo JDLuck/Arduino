@@ -30,3 +30,5 @@ You can find the COM port number in 'Device Manager' on windows if you are unsur
 ![Device Manager COM Port](images/install-com.png)
 
 You should now be ready to 'Verify' and 'Upload' your sketch.
+
+**NOTE:** Package has been tested with Arduino 1.8.5 and Windows 10.
