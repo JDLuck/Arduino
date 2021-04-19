@@ -1,6 +1,6 @@
 # Hey Emacs, this is a -*- makefile -*-
 #----------------------------------------------------------------------------
-# WinAVR Makefile Template written by Eric B. Weddington, Jörg Wunsch, et al.
+# WinAVR Makefile Template written by Eric B. Weddington, Jï¿½rg Wunsch, et al.
 #  >> Modified for use with the LUFA project. <<
 #
 # Released to the Public Domain
@@ -48,13 +48,16 @@
 
 # USB vendor ID (VID)
 # reuse of this VID by others is forbidden by USB-IF
+# official Arduino LLC VID
+VID = 0x2341
 # official Microchip LLC VID
-VID = 0x04D8
-
+# VID = 0x04D8
 
 # USB product ID (PID)
+# official Leonardo PID
+PID = 0x0036
 # official Spark Bootloader PID
-PID = 0xEC85
+# PID = 0xEC85
 
 # JDLuck Data Version
 JDLDV = 1

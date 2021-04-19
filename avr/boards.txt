@@ -29,8 +29,10 @@ spark2.bootloader.lock_bits=0x2F
 
 spark2.build.mcu=atmega32u4
 spark2.build.f_cpu=16000000L
-spark2.build.vid=0x04D8
-spark2.build.pid=0xEC85
+#spark2.build.vid=0x04D8
+spark2.build.vid=0x2341
+#spark2.build.pid=0xEC85
+spark2.build.pid=0x0036
 spark2.build.usb_product="Arduino Leonardo"
 spark2.build.board=AVR_leonardo
 spark2.build.core=arduino
